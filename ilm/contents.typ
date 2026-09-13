@@ -1,4 +1,4 @@
-== Purpose
+= Purpose
 
 I intend for this document to serve as a post-event analysis report on what was done during this work \(from my perspective and those I may interview) for the benefit of myself, my fellow organizers, other organizers-to-be, and the community at large.
 
@@ -15,7 +15,7 @@ I originally had a section on the timeline of this issue, but I realized that th
 If you are interested in a timeline of big events, you can see the #link("https://starkvillecmf.org/#/archive/timeline")[timeline on website], but this timeline is from before the P&Z meeing on 2026-08-11 and has not been updated since then. \
 For anyone still interested in a more detailed play-by-play, I may be able to provide a timeline of key organizational events later.
 
-=== Post-hoc Reflection on Why This Worked
+== Post-hoc Reflection on Why This Worked
 
 - \[ \] Incorporate \[\[crypto mine debrief - other person's input\]\]
 
@@ -40,9 +40,9 @@ These are discussed in more detail below.
 
 - \[ \] finish organizing discussion of these terms!!!
 
-==== Things We Could Not Control
+=== Things We Could Not Control
 
-===== This Specific Issue
+==== This Specific Issue
 
 Data centers are currently in the national spotlight due to things like "artificial intelligence". \
 Cryptocurrency as well is a hot topic for some groups.
@@ -64,7 +64,7 @@ Without the organization of people and speeches beforehand, I would bet that the
 
 It may not have been as overwhelming of a response if the organizing had not have occurred, but I wanted to point out how this specific issue itself was such an almost toxic topic in and of itself that the community would have still done something else to organize before the Board of Aldermen meeting at least.
 
-=== Extensive research and argument vetting
+== Extensive research and argument vetting
 
 A large part of our effort surrounding this issue was research on this and similar facilities. \
 We had subgroups working on researching utilties usage \(electricity and water), pollution \(noise, heat, and air), and company identity and a group discussing speechwriting. \
@@ -77,7 +77,7 @@ Several types of information were shared:
 - our own written words,
 - and other sources/repositories of information.
 
-==== My Background and Positioning Coming into this Situation
+=== My Background and Positioning Coming into this Situation
 
 I am risk averse, commitment avoidant#footnote[Ask my wife...], and anti-traditionalist#footnote[Not against traditions, but against following traditions for no reason. For more discussion, look into the idea of #link("https://fs.blog/chestertons-fence/")[Chesterson's Fence].]. \
 In these aspects, I likely should have been set up to not care about this problem, or at least not want to devote a lot of time to it.
@@ -104,9 +104,9 @@ Compulsively driven to pick up litter \(which has not changed). \
 
 - \[ \] finish here
 
-=== problems in other efforts we didn’t have much here
+== problems in other efforts we didn’t have much here
 
-==== Other Core Team Backgrounds
+=== Other Core Team Backgrounds
 
 Two academics from different disciplines. \
 Some with software/computer experience. \
