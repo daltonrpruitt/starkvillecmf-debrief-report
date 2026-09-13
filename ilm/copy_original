@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+set -e
+
+original_file=$([[ -f .env ]] && grep "ORIGINAL_FILE" .env | cut -d "=" -f 2)
+[[ -n "${original_file}" ]] 
+
+local_copy_name=contents.md 
+
+awk '/^#/{found=1} found' "${original_file}" > "${local_copy_name}" 
+
+echo "${original_file}" copied to "${local_copy_name}"
