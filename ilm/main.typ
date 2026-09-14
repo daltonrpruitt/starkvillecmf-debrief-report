@@ -39,5 +39,11 @@
   listing-index: (enabled: false),
 )
 
+#set par(
+  first-line-indent: 2em,
+  spacing: 1em,
+  // justify: true,
+)
+
 #import "@preview/cmarker:0.1.10"
 #cmarker.render(read("contents.md"))
