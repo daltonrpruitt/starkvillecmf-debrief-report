@@ -22,14 +22,13 @@
 //     )
 //   ]
 // ],
-  authors: "The Starkville Community's Response to the 2026 Cryptomining Facility Project", // this is really the subtitle...
+  authors: "The Starkville Community's Response to\nthe 2026 Cryptomining Facility Project", // this is really the subtitle...
   date: datetime(year: 2026, month: 09, day: 13),
   abstract: [
     During the period of late June to early August of 2026 (about 2 months), local residents in Starkville and the surrounding area organized a group opposed to a cryptocurrency mining facility proposed for construction in the city. 
     That effort had the intended impact, as the facility was denied by the Planning and Zoning commission on August 11, and the proposing company pulled their own special exemption request application from consideration before the subsequent Board of Aldermen meeting.
 
-    This document is to summarize the organizing techniques and tactics used in that effort to provide some level of insight and guidance for other potential organizers and caring community members that are driven to work on future efforts in our area.
-  ],
+    This document is an attempt to summarize the organizing techniques and tactics used in that effort to provide some level of insight and guidance for other potential organizers and caring community members that are driven to work on future efforts in our area.  ],
   // cover-page: none,
   table-of-contents: none,
   chapter-pagebreak: false,
