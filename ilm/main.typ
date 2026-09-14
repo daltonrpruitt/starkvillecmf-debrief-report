@@ -40,4 +40,5 @@
   listing-index: (enabled: false),
 )
 
-#include "contents.typ"
+#import "@preview/cmarker:0.1.10"
+#cmarker.render(read("contents.md"))

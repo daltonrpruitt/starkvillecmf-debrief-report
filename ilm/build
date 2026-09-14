@@ -5,6 +5,4 @@ set -x
 
 ./copy_original contents.md
 
-uv run md2typst contents.md
-
 typst c main.typ
